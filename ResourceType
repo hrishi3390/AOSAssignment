@@ -1,0 +1,6 @@
+package aosAssignment.classes;
+
+public enum ResourceType {
+	Shared, Nonshared;
+
+}
