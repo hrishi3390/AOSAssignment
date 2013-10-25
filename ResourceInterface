@@ -1,0 +1,11 @@
+package aosAssignment.interfaces;
+
+import java.rmi.Remote;
+
+public interface ResourceInterface extends Remote {
+void lock(int n);
+void release();
+int getStatus();
+
+
+}
