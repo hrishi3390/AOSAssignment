@@ -1,0 +1,8 @@
+package aosAssignment.classes;
+
+public enum State {
+	
+		Excuting, Requesting, Idle; 
+	}
+
+
